@@ -45,5 +45,5 @@ setproctitle==1.1.10
 six==1.14.0
 texttable==0.9.1
 typing==3.7.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 websocket-client==0.44.0
